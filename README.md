@@ -1,8 +1,8 @@
-# OAuth 2.0
+# OAuth 2.0 - Chamada HTTP
 
 > Dados para utilizar na autenticação do OAuth 2.0 para as APIS do Google
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Esse projeto é destinado a todos as pessoas que já visitaram meu vídeo no Youtube sobre como realizar chamada para recuperar "Access Token".
 
 ![](../header.png)
 
