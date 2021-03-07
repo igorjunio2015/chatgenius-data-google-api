@@ -4,7 +4,7 @@
 
 Esse projeto é destinado a todos as pessoas que já visitaram meu vídeo no Youtube sobre como realizar chamada para recuperar "Access Token".
 
-![](../header.png)
+![](https://youtu.be/Cwwd9iiMeQo)
 
 ## Instalação
 
