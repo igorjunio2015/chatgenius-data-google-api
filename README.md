@@ -8,24 +8,35 @@ Esse projeto é destinado a todos as pessoas que já visitaram [meu vídeo no Yo
 
 ## Configuração
 
-Documentação da API Oauth 2.0:
+### Documentação da API Oauth 2.0:
 
-```
-[https://developers.google.com/identity/protocols/oauth2/web-server](https://developers.google.com/identity/protocols/oauth2/web-server)
+https://developers.google.com/identity/protocols/oauth2/web-server
+
+### Console Google para criar as credenciais: 
+
+```sh
+Lembre de selecionar o projeto correto
 ```
 
-https://console.cloud.google.com/apis/credentials?project=exemplo-integracao-sheets&supportedpurview=project
+https://console.cloud.google.com/apis/credentials
+
+### Playground OAuth 2.0 - Google: 
+
+```sh
+Esse link também será utilizado para utilizar como URI de redirecionamento na tela de consentimento
+```
 
 https://developers.google.com/oauthplayground
 
+## Dados para a chamada HTTP
 
-Windows:
+Para recuperar o "Access Token" gerado através de uma chamda HTTP para o serviço OAuth 2.0 da Google você precisa seguir esse passo-a-passo.
+
+Lembre-se de sempre realizar a requisição com o método _POST_
 
 ```sh
-edit autoexec.bat
+POST https://accounts.google.com/o/oauth2/token
 ```
-
-## Exemplo de uso
 
 Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
 
