@@ -55,7 +55,7 @@ Os dados do corpo (body) da requisição deverão conter as informações preenc
 }
 ```
 
-## Meta
+## Contato
 
 Igor Junio – [@ChatGenius](https://www.flowcode.com/page/chatgenius) – chatofgenius@gmail.com
 
