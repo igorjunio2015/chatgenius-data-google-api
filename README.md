@@ -6,13 +6,18 @@ Esse projeto é destinado a todos as pessoas que já visitaram [meu vídeo no Yo
 
 ![](miniatura-video.png)
 
-## Instalação
+## Configuração
 
-OS X & Linux:
+Documentação da API Oauth 2.0:
 
 ```sh
-npm install my-crazy-module --save
+[https://developers.google.com/identity/protocols/oauth2/web-server](https://developers.google.com/identity/protocols/oauth2/web-server)
 ```
+
+https://console.cloud.google.com/apis/credentials?project=exemplo-integracao-sheets&supportedpurview=project
+
+https://developers.google.com/oauthplayground
+
 
 Windows:
 
