@@ -34,8 +34,14 @@ Para recuperar o "Access Token" gerado através de uma chamda HTTP para o servi�
 
 Lembre-se de sempre realizar a requisição com o método _POST_.
 
+> Método:
 ```sh
-> POST https://accounts.google.com/o/oauth2/token
+POST
+```
+
+> URL:
+```sh
+https://accounts.google.com/o/oauth2/token
 ```
 
 Os dados do corpo (body) da requisição deverão conter as informações preenchidas, nesse formato:
@@ -49,14 +55,11 @@ Os dados do corpo (body) da requisição deverão conter as informações preenc
 }
 ```
 
-
 ## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Igor Junio – [@ChatGenius](https://www.flowcode.com/page/chatgenius) – chatofgenius@gmail.com
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
+[oauth20-documentation]: https://developers.google.com/identity/protocols/oauth2/web-server
+[console-google]: https://console.cloud.google.com/apis/credentials
+[google-playground]: https://developers.google.com/oauthplayground
+[chatgenius]: https://www.flowcode.com/page/chatgenius
