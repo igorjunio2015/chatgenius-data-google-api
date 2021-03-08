@@ -15,10 +15,10 @@ https://developers.google.com/identity/protocols/oauth2/web-server
 ### Console Google para criar as credenciais: 
 
 ```sh
-Lembre de selecionar o projeto correto
+> Lembre de selecionar o projeto correto
 ```
 
-https://console.cloud.google.com/apis/credentials
+> https://console.cloud.google.com/apis/credentials
 
 ### Playground OAuth 2.0 - Google: 
 
@@ -26,7 +26,7 @@ https://console.cloud.google.com/apis/credentials
 Esse link também será utilizado para utilizar como URI de redirecionamento na tela de consentimento
 ```
 
-https://developers.google.com/oauthplayground
+> https://developers.google.com/oauthplayground
 
 ## Dados para a chamada HTTP
 
